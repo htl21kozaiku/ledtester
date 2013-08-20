@@ -1,0 +1,13 @@
+- add Polish translation
+- put on Ohloh
+- icon conformant to android guidelines
+- nicer layout (especially in vertical orientation)
+- public API
+- select all text on focusing a text box
+
+string changes needed:
+- explain that it's not for setting LED color, just for seeing it.
+  (I'm not even sure if this can be done at all, people are so clueless I can't believe it.)
+- saving colors
+- force apply and reset
+- "don't show this again" in the welcome message box
